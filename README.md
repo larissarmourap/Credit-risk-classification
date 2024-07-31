@@ -4,7 +4,7 @@ Peer-to-peer (P2P) lending is a way for individuals and businesses to borrow and
 
 ## Credit Risk Analysis Report
 
-The purpose of this analysis is to create and evaluate the accuracy of a data model that predicts the credity worthiness of potential borrowers from peer-to-peer lending services.
+The purpose of this analysis is to create and evaluate the accuracy of a data model that predicts the credit worthiness of potential borrowers from peer-to-peer lending services.
 
 
 * Balanced Accuracy Score: 94.4 % - This means that when taking into account the sensitivity (recall and/or true positive rate) and specificity (true negative rate) of the model, the balanced prediction accuracy was 94.4%
